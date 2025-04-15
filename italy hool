@@ -12,7 +12,7 @@
     "answer": "Гнокки"
   },
   {
-    "question": "Q2. "Al dente" гэдэг нь паста ямар байдлыг илэрхийлдэг вэ?
+    "question": "Q2. Al dente гэдэг нь паста ямар байдлыг илэрхийлдэг вэ?
 ",
     "options": [
       "Хэт болгосон",
@@ -24,7 +24,7 @@
     "answer": "Хатуулагтай "
   },
   {
-    "question": "Ромын уламжлалт "Cacio e Pepe" гоймонгийн үндсэн орц аль нь биш вэ?",
+    "question": "Ромын уламжлалт Cacio e Pepe гоймонгийн үндсэн орц аль нь биш вэ?",
     "options": [
       "Хар перец",
       " Пармезан",
@@ -35,7 +35,7 @@
     "answer": "Оливын тос"
   },
   {
-    "question": ""Risotto alla Milanese" хэмээх нэрт хоолонд онцгой амт, өнгө оруулдаг орц юу вэ?",
+    "question": "Risotto alla Milanese хэмээх нэрт хоолонд онцгой амт, өнгө оруулдаг орц юу вэ?",
     "options": [
       "Базилик",
       "Улаан дарс",
@@ -46,19 +46,19 @@
     "answer": "Сафрон"
   }
 {
-    "question": "Итали пиццаны жинхэнэ “Margherita” төрлийн нэршил юунд тулгуурласан бэ?",
+    "question": "Итали пиццаны жинхэнэ Margherita төрлийн нэршил юунд тулгуурласан бэ?",
     "options": ["Италийн хатан хаан", "Пиццаны бүтэц", "Пицца", "Димсам"],
 "images":"https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/mar.jpeg",
     "answer": "Италийн хатан хаан"
   },
   {
-    "question": ""Pecorino Romano" бяслаг юугаар хийгддэг вэ?",
+    "question": "Pecorino Romano бяслаг юугаар хийгддэг вэ?",
     "options": [" Ямааны сүү", "Гнокки", "Лингвини", "Хоньны сүү"],
 "images":"https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/pec.jpeg",
     "answer": "Хоньны сүү"
   },
   {
-    "question": ""Osso Buco" хэмээх Милан хоол нь голчлон юугаар хийгддэг вэ?
+    "question": "Osso Buco хэмээх Милан хоол нь голчлон юугаар хийгддэг вэ?
 ",
     "options": [
        Гахайн мах",
