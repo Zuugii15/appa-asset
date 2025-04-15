@@ -1,0 +1,101 @@
+[
+  {
+    "question": "Эспрессо кофе яагаад хамгийн хүчтэй гэгддэг вэ?",
+    "options": [
+      "Сүүтэй хийдэг учраас", 
+      "Хүйтэн уудаг учраас", 
+      "Маш өтгөн, бага хэмжээгээр гардаг учраас", 
+      "Элсэн чихэр ихтэй учраас"
+],
+    "images":"https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/espresso.jpeg",
+    "answer": "Маш өтгөн, бага хэмжээгээр гардаг учраас"
+  },
+  {
+    "question": "Американо болон эспрессогийн гол ялгаа юу вэ?",
+    "options": [
+      "Американо-д халуун ус нэмдэг", 
+      "Эспрессо-д шоколад ордог", 
+      "Американо-д мөс хийдэг", 
+      "Эспрессо-г зөвхөн сүүтэй уудаг"
+],
+    "images":"https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/americano.jpeg",
+    "answer": "Американо-д халуун ус нэмдэг"
+  },
+  {
+    "question": "Латтед ямар төрлийн сүү хамгийн их хэрэглэгддэг вэ?",
+    "options": [
+      "Хөөсөн сүү",
+      "Зайдасны сүү",
+      "Тослог ихтэй сүү",
+      "Хөөрүүлээгүй сүү"
+    ],
+    "images":"https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/latte.jpeg",
+    "answer": "Хөөсөн сүү"
+  },
+  {
+    "question": "Аффогато нь кофе юу эсвэл амттан уу?",
+    "options": [
+      "Зөвхөн кофе",
+      "Амттан",
+      "Хоёуланг нь хослуулсан",
+      "Зөвхөн мөстэй уудаг зүйл"
+    ],
+    "images":"https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/affogato.jpeg",
+    "answer": "Хоёуланг нь хослуулсан"
+  },
+  {
+    "question": "Капучинон дахь сүүний хөөс ямар үүрэгтэй вэ?",
+    "options": [
+      "Гашуун амтыг дардаг",
+      "Кофег хүйтэн болгодог",
+      "Өнгө нэмдэг",
+      "Эспрессо-г шингэлдэг"
+],
+    "images":"https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/cappuccino.jpeg",
+    "answer": "Dart"
+  },
+  {
+    "question": "Маккиатог бусад кофеноос юугаар нь ялгадаг вэ?",
+    "options": [
+      "Сүү огт ашигладаггүй", 
+      "Зөвхөн шоколадтай байдаг", 
+      "Эспрессо дээр бага зэрэг сүү нэмдэг", 
+      "Мөс нэмдэг"
+],
+    "images":"https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/macchiato.jpeg",
+    "answer": "Эспрессо дээр бага зэрэг сүү нэмдэг"
+  },
+  {
+    "question": "Ногоон цайг бусад цайнаас юугаар нь ялгадаг вэ?",
+    "options": [
+      "Хатаадаггүй", 
+      "Шоколадтай холидог", 
+      "Уураг ихтэй", 
+      "Хуурай навчийг исгэхгүйгээр боловсруулдаг"
+],
+    "images":"https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/green%20tea.jpeg",
+    "answer": "Хуурай навчийг исгэхгүйгээр боловсруулдаг"
+  },
+  {
+    "question": "Хар цай яагаад илүү гүн өнгөтэй, хүчтэй амттай байдаг вэ?",
+    "options": [
+      "Цайг кофеор шардаг", 
+      "Цайны навчийг бүрэн исгэдэг",
+      "Ногоон цайтай хольдог", 
+      "Сүүтэй чанах шаардлагатай"
+],
+    "images":"https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/black%20tea.jpeg",
+    "answer": "Цайны навчийг бүрэн исгэдэг"
+  },
+  {
+    "question": "Өлөн цай нь ногоон болон хар цайнуудаас юугаараа ялгаатай вэ?",
+    "options": [
+      "Ургамал биш жимсээр хийдэг",
+      "Исгэлтийн түвшин нь дунд зэрэг байдаг",
+      "Хүйтэн усаар найруулдаг",
+      "Зөвхөн нунтаг хэлбэрээр байдаг"
+    ],
+    "images":"https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/oolong%20tea.jpeg",
+    "answer": "Исгэлтийн түвшин нь дунд зэрэг байдаг"
+  }
+  ]
