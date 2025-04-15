@@ -1,6 +1,15 @@
 [
   {
-    "question": "Энэ ямар машины лого вэ?",
+    "question": "Mount Roraima, Venezuela/Brazil/Guyana
+Antelope Canyon, USA
+Banff National Park, Canada
+Great Barrier Reef, Australia
+Torres del Paine, Chile (Patagonia)
+Bora Bora, French Polynesia
+The Dolomites, Italy
+niagara falls
+Zhangjiajie National Forest Park, China
+?",
     "imgurl": "https://raw.githubusercontent.com/Zuugii15/Aslag/refs/heads/main/porsche.jpeg",
     "options": ["Ferrari", "Cadillac", "Porsche", "Brabus"],
     "answer": "Porsche"
