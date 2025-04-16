@@ -8,74 +8,91 @@
   {
     "question": "Аль төрлийн Итали гоймон нь ихэвчлэн төмсөөр хийгддэг вэ?",
     "options": [" Пенне", "Гнокки", "Лингвини", "Феттучини"],
-"images": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/gnocci.jpeg",
+    "images": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/gnocci.jpeg",
     "answer": "Гнокки"
   },
   {
     "question": "Q2. Al dente гэдэг нь паста ямар байдлыг илэрхийлдэг вэ?",
-    "options": [
+    "options": 
+    [
       "Хэт болгосон",
       "Шингэнтэй",
       "Хатуулагтай ",
       "Зуурсан"
     ],
-"images": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/al%20dente.jpeg",
+    "images": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/al%20dente.jpeg",
     "answer": "Хатуулагтай "
   },
   {
     "question": "Ромын уламжлалт Cacio e Pepe гоймонгийн үндсэн орц аль нь биш вэ?",
-    "options": [
+    "options": 
+    [
       "Хар перец",
       " Пармезан",
       "Оливын тос",
       "Гоймон"
     ],
-"images": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/cac.jpeg",
+    "images": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/cac.jpeg",
     "answer": "Оливын тос"
   },
   {
     "question": "Risotto alla Milanese хэмээх нэрт хоолонд онцгой амт, өнгө оруулдаг орц юу вэ?",
-    "options": [
+    "options": 
+    [
       "Базилик",
       "Улаан дарс",
       "Сафрон",
       " Хар чинжүү"
     ],
-"images": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/ris.jpeg",
+    "images": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/ris.jpeg",
     "answer": "Сафрон"
   },
   {
     "question": "Итали пиццаны жинхэнэ Margherita төрлийн нэршил юунд тулгуурласан бэ?",
-    "options": ["Италийн хатан хаан", "Пиццаны бүтэц", "Пицца", "Димсам"],
-"images": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/mar.jpeg",
+    "options": 
+    [
+      "Италийн хатан хаан", 
+      "Пиццаны бүтэц", 
+      "Пицца", 
+      "Димсам"
+    ],
+    "images": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/mar.jpeg",
     "answer": "Италийн хатан хаан"
   },
   {
     "question": "Pecorino Romano бяслаг юугаар хийгддэг вэ?",
-    "options": [" Ямааны сүү", "Гнокки", "Лингвини", "Хоньны сүү"],
-"images": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/pec.jpeg",
+    "options": 
+    [ 
+      "Ямааны сүү", 
+      "Гнокки", 
+      "Лингвини", 
+      "Хоньны сүү"
+    ],
+    "images": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/pec.jpeg",
     "answer": "Хоньны сүү"
   },
   {
     "question": "Osso Buco хэмээх Милан хоол нь голчлон юугаар хийгддэг вэ?",
-    "options": [
-       "Гахайн мах",
+    "options": 
+    [
+      "Гахайн мах",
       "Шингэнтэй",
       "Үхрийн яс бүхий хөлний мах ",
       "Зуурсан"
     ],
-"images": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/osso.jpeg",
+    "images": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/osso.jpeg",
     "answer": "Үхрийн яс бүхий хөлний мах "
   },
   {
     "question": "Tiramisu нэрийн утгыг монголоор орчуулбал ямар утгатай вэ?",
-    "options": [
-      "Намайг сэргээгээрэй ",
-      " Пармезан",
+    "options": 
+    [
+      "Намайг сэргээгээрэй",
+      "Пармезан",
       "Чихэрлэг орон зай",
       "Гоймон"
     ],
-"images": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/tir.jpeg",
+    "images": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/tir.jpeg",
     "answer": "Намайг сэргээгээрэй "
   },
 ]
