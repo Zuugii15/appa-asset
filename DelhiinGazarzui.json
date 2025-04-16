@@ -43,7 +43,7 @@
       "Торрес дел пайна"
     ],
     "answer": "Торрес дел пайна"
-  }
+  },
    {
     "question": "Энэ ямар арлын нэр вэ?",
      "imgurl": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/bora%20bora.webp",
@@ -54,7 +54,7 @@
       "Цэнхэр арал"
     ],
     "answer": "Бора Бора"
-  }
+  },
 
    {
     "question": "Энэ ямар уулсын нэр вэ?",
@@ -66,7 +66,7 @@
       "Эвэрест"
     ],
     "answer": "Доломитес уул"
-  }
+  },
    {
     "question": "Энэ ямар хүрхрээний нэр вэ?",
      "imgurl": "https://github.com/Zuugii15/appa-asset/blob/main/niagara%20falls%202.jpg?raw=true",
@@ -77,7 +77,7 @@
       "Ээж хүрхрээ"
     ],
     "answer": "Ниагарагын хүрхрээ"
-  }
+  },
 
    {
     "question": "Энэ ямар уулсын нэр вэ?",
@@ -89,9 +89,5 @@
       "Өргөс"
     ],
     "answer": "Жанжиажэ"
-  }
-
- 
-  
-  
+  },
 ]
