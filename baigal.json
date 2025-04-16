@@ -1,0 +1,94 @@
+[
+  {
+    "question": "Энэ ямар уулын нэр вэ?",
+    "imgurl": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/roraima-north-large.jpeg",
+    "options": ["Рорайма уул", "Баннер уул", "Ширээ уул", "Юотунхайм"],
+    "answer": "Рорайма уул"
+  },
+  {
+    "question": "Энэ ямар газрын нэр вэ?",
+     "imgurl": "https://github.com/Zuugii15/appa-asset/blob/main/antelope%20canyon.jpg?raw=true",
+    "options": ["Антелоп цав", "Хэрмэн цав", "Давалгаа цав", "Гавал цав"],
+    "answer": "Антелоп цав"
+  },
+  {
+    "question": "Энэ ямар байгалын үзэсгэлэнт газар вэ?",
+     "imgurl": "https://github.com/Zuugii15/appa-asset/blob/main/bandff.jpeg?raw=true",
+    "options": [
+      "Банфф",
+      "Эвэрест",
+      "Мидгард",
+      "Алп"
+    ],
+    "answer": "Банфф"
+  },
+  {
+    "question": "Энэ юу гэдэг газар вэ?",
+     "imgurl": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/great%20barrier%20reef.webp",
+    "options": [
+       "Цэнхэр далай",
+      "Их саадын рифф",
+      "Намхан далай",
+      "Живсэн арал"
+    ],
+    "answer": "Их саадын рифф"
+  },
+  {
+    "question": "Энэ ямар уулын нэр вэ?",
+     "imgurl": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/torres%20del%20paine.avif",
+    "options": [
+      "Торелиминөүс",
+      "Боорс ",
+      "Хэнтийн нуруу",
+      "Торрес дел пайна"
+    ],
+    "answer": "Торрес дел пайна"
+  },
+   {
+    "question": "Энэ ямар арлын нэр вэ?",
+     "imgurl": "https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/bora%20bora.webp",
+    "options": [
+      "Мотунуй",
+      "Мадагскар",
+      "Бора Бора",
+      "Цэнхэр арал"
+    ],
+    "answer": "Бора Бора"
+  },
+
+   {
+    "question": "Энэ ямар уулсын нэр вэ?",
+     "imgurl": "https://github.com/Zuugii15/appa-asset/blob/main/dolomites.jpg?raw=true",
+    "options": [
+      "Фүжи уул",
+      "Доломитес уул",
+      "Банфф",
+      "Эвэрест"
+    ],
+    "answer": "Доломитес уул"
+  },
+   {
+    "question": "Энэ ямар хүрхрээний нэр вэ?",
+     "imgurl": "https://github.com/Zuugii15/appa-asset/blob/main/niagara%20falls%202.jpg?raw=true",
+    "options": [
+      "Их хүрхрээ",
+      "Октавиагийн хүрхрээ",
+      "Ниагарагын хүрхрээ",
+      "Ээж хүрхрээ"
+    ],
+    "answer": "Ниагарагын хүрхрээ"
+  },
+
+   {
+    "question": "Энэ ямар уулсын нэр вэ?",
+     "imgurl": "https://github.com/Zuugii15/appa-asset/blob/main/Zhangjiajie%20National%20Park.jpg?raw=true",
+    "options": [
+      "Юотунхайм",
+      "Ванахайм",
+      "Жанжиажэ",
+      "Өргөс"
+    ],
+    "answer": "Жанжиажэ"
+  }
+
+]
