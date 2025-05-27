@@ -1,6 +1,6 @@
 [
   {
-    "imgurl":"https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/espresso.jpeg",
+    "images":"https://raw.githubusercontent.com/Zuugii15/appa-asset/refs/heads/main/espresso.jpeg",
     "question": "Эспрессо кофе яагаад хамгийн хүчтэй гэгддэг вэ?",
     "options": [
       "Сүүтэй хийдэг учраас", 
