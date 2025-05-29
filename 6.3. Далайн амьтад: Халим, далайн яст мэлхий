@@ -1,54 +1,54 @@
 [
   {
-    "img-url": "https://news.clemson.edu/wp-content/uploads/2023/06/ocean.jpg",
+    "images": "https://news.clemson.edu/wp-content/uploads/2023/06/ocean.jpg",
     "question": "Хамгийн их ховордсон далайн амьтан юу вэ?",
     "options": ["Акул", "Вакита", "Далайн морь", "Халим"
 ],
     "answer": "Вакита"
   },
   { 
-    "img-url": "https://it.usembassy.gov/wp-content/uploads/sites/67/20230312bemb750x450.jpg",
+    "images": "https://it.usembassy.gov/wp-content/uploads/sites/67/20230312bemb750x450.jpg",
     "question": "Далайн хамгийн том амьтан юу вэ?",
     "options": ["Цэнхэр халим", "Акул", "Stingray", "наймаалж"
 ],
     "answer": "Цэнхэр халим"
   },
 {
-    "img-url": "https://cdn.mos.cms.futurecdn.net/4UdEs7tTKwLJbxZPUYR3hF.jpg",
+    "images": "https://cdn.mos.cms.futurecdn.net/4UdEs7tTKwLJbxZPUYR3hF.jpg",
     "question": "Ер нь алиалагч загас хэр том вэ?",
     "options": ["3-4cm", "4-5cm", "6-7cm", "8-9cm"
 ],
     "answer": "8-9cm"
   }, 
 {
-    "img-url": "https://it.usembassy.gov/wp-content/uploads/sites/67/20230312bemb750x450.jpg",
+    "images": "https://it.usembassy.gov/wp-content/uploads/sites/67/20230312bemb750x450.jpg",
     "question": "Эдгээр далайн амьтдын аль нь холимог идэштэн вэ?",
     "options": ["Акул", "Далайн арслан", "Хавч", "Манати"
 ], 
     "answer": "Хавч"
   },
 {
-    "img-url": "https://cdn.britannica.com/72/128372-050-476B1DFF/Blue-shark.jpg",
+    "images": "https://cdn.britannica.com/72/128372-050-476B1DFF/Blue-shark.jpg",
     "question": "Ихэвчлэн акулын шүд хэр том байдаг вэ?",
     "options": ["0.2-1cm", "1.3-5cm", "5.4-7cm", "7.8-9cm"
 ],
     "answer": "1.3-5cm"
   },
 {
-    "img-url": "https://a-z-animals.com/media/Seahorse-Hippocampus-adolescent.jpg",
+    "images": "https://a-z-animals.com/media/Seahorse-Hippocampus-adolescent.jpg",
     "question": "Далайн морь махчин амьтан мөн үү?",
     "options": ["Тийм", "Үгүй"
 ],
     "answer": "Тийм"
 },{
-    "img-url": "https://cdn.britannica.com/72/128372-050-476B1DFF/Blue-shark.jpg",
+    "images": "https://cdn.britannica.com/72/128372-050-476B1DFF/Blue-shark.jpg",
     "question": "Squid хэдэн тэмтрүүлтэй вэ?",
     "options": ["2", "4", "8", "10"
 ],
     "answer": "2"
 },
 {
-    "img-url": "https://live.staticflickr.com/54/193358031_ddf7732e6e_o.jpg",
+    "images": "https://live.staticflickr.com/54/193358031_ddf7732e6e_o.jpg",
     "question": "Алх толгойт акулууд яагаад ийм хэлбэртэй байдаг вэ?",
     "options": ["Өргөн толгой нь алсын харааг сайжруулж, олзыг олж илрүүлэх чадварыг сайжруулдаг.", "Өргөн толгой нь бие биетэйгээ харилцахад тусалдаг.", "Өргөн толгой нь тэдэнд илүү тохь тухтай хооллоход тусалдаг.", "
 Өргөн толгой нь тэдэнд өөрийгөө хамгаалахад тусалдаг."
@@ -56,7 +56,7 @@
     "answer": "Өргөн толгой нь алсын харааг сайжруулж, олзыг олж илрүүлэх чадварыг сайжруулдаг."
 },
 {
-    "img-url": "https://d1jyxxz9imt9yb.cloudfront.net/medialib/4964/image/s1300x1300/Tiger-7--2013_reduced.jpg",
+    "images": "https://d1jyxxz9imt9yb.cloudfront.net/medialib/4964/image/s1300x1300/Tiger-7--2013_reduced.jpg",
     "question": "Усан дор акулууд амьсгалж чадах уу?",
     "options": ["Тийм", "Үгүй"
 ],
